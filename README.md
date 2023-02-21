@@ -279,7 +279,7 @@ save_memory = True
 
 保存退出。
 
-# 生成大奶萌妹
+# 生成妹子
 
 确保你位于```(control)```虚拟环境之下，并位于ControlNet目录中。
 
